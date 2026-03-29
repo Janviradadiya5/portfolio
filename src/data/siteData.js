@@ -160,3 +160,7 @@ export const contactDetails = {
   email: "janviradadiya61@gmail.com",
   cities: "Surat",
 };
+
+// Dummy data for filmCards and photoCards (replace with real data as needed)
+export const filmCards = [];
+export const photoCards = [];
