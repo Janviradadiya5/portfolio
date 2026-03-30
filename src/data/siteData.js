@@ -44,28 +44,28 @@ export const navLinks = [
 export const projectCards = [
   {
     title: "Fake News Detector",
-    image: "fake-news.png",
+    image: "/fake-news.png",
     live: "https://fake-news-detector-5bc5.onrender.com/",
     details: "/projects/fake-news-detector",
     excerpt: "Detects and flags fake news articles using advanced machine learning algorithms. Real-time results and easy-to-use interface.",
   },
   {
     title: "Eco Shop",
-    image: "eco-shop.png",
+    image: "/eco-shop.png",
     live: "https://janviradadiya5.github.io/sustainable-shopping-assistant/index.html",
     details: "/projects/eco-shop",
     excerpt: "A sustainable e-commerce platform for eco-friendly products. Shop green, live clean!",
   },
   {
     title: "AI Resume Scanner",
-    image: "ai-resume.png",
+    image: "/ai-resume.png",
     live: "https://ai-resume-scanner-c7ka.onrender.com",
     details: "/projects/ai-resume-scanner",
     excerpt: "Scan and analyze resumes using AI to match job requirements and highlight candidate strengths.",
   },
   {
     title: "Project Management Tool",
-    image: "project-management.png",
+    image: "/project-management.png",
     live: "https://your-project-management-tool-live-link.com",
     details: "/projects/project-management-tool",
     excerpt: "Organize, track, and collaborate on projects with this intuitive management tool.",
