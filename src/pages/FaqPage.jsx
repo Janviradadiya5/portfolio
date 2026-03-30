@@ -14,7 +14,7 @@ function FaqPage() {
         <h1>We&apos;re here to answer all your questions</h1>
         <p>
           We try to answer all your questions here. If you have any further questions
-          about IVORY FILMS you can always contact us at hello@ivoryfilms.in. We will
+          about Portfolio you can always contact us at janviradadiya61@gmail.com. We will
           respond to your inquiry as soon as possible.
         </p>
       </section>
